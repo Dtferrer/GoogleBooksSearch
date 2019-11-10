@@ -6,7 +6,7 @@ function Nav() {
     <div>
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <a className="navbar-brand" id="homeLink" href="/">
-        Book React App
+        Search
       </a>
      <ul className="navbar-nav">
      <li className="nav-item">
